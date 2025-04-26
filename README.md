@@ -31,11 +31,11 @@ Este modelo devera ser utilizado para identificar se o veiculo que está passand
 assim acionar o alarme de segurança.
 
 ## Notebook com o treinamento usando YOLO para detecção de veiculos
-- [notebook](./Ederson_Badeca_rm560204_pbl_fase6.ipynb)
+- [notebook](src/Ederson_Badeca_rm560204_pbl_fase6.ipynb)
 
 ## Notebook com a criação de uma rede neural convolucional para detecção de veiculos do zero para e yolo tradicional 
 
-- [notebook](./Ederson_Badeca_rm560204_pbl_fase6_CNN.ipynb)
+- [notebook](src/Ederson_Badeca_rm560204_pbl_fase6_CNN.ipynb)
 
 ## 📁 Estrutura de pastas
 
