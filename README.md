@@ -6,23 +6,16 @@
 
 <br>
 
-# Nome do projeto
+# fase 6
 
-## Nome do grupo
-
-## Grupo 20
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/caiorcastro/">Caio Rodrigues Castro</a> 
 - <a href="https://www.linkedin.com/in/ederson-badeca/">Ederson Luiz Badeca dos Santos</a> 
-- <a href="https://www.linkedin.com/in/digitalmanagerfelipesoares/">Felipe Soares Nascimento</a>
-- <a href="https://www.linkedin.com/in/lfhillesheim/">Lucas Ferreira Hillesheim</a>
-- <a href="https://www.linkedin.com/in/luisfuturist/">Luís Fillipe Emidio</a>
 
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/in/lucas-gomes-moreira-15a8452a/">Lucas Gomes</a>
+- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Ruiz Orabona</a>
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi Chiovato</a>
 
@@ -31,6 +24,18 @@
 
 *Descreva seu projeto com base no texto do PBL (até 600 palavras)*
 
+Treinamento de um modelo de Machine Learning para visão computacional, para identificação de objetos para o sistema
+intelinte de segurança patrimonial de fazendas.
+O modelo tenta identificar qual o tipo de veiculo que está passando pela câmera de segurança, se é um carro, ou bicicleta.
+Este modelo devera ser utilizado para identificar se o veiculo que está passando é um veiculo autorizado ou não, e 
+assim acionar o alarme de segurança.
+
+## Notebook com o treinamento usando YOLO para detecção de veiculos
+- [notebook](./Ederson_Badeca_rm560204_pbl_fase6.ipynb)
+
+## Notebook com a criação de uma rede neural convolucional para detecção de veiculos do zero para e yolo tradicional 
+
+- [notebook](./Ederson_Badeca_rm560204_pbl_fase6_CNN.ipynb)
 
 ## 📁 Estrutura de pastas
 
@@ -52,15 +57,13 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
+### Pré-requisitos
 
+Para executar este projeto, você precisará ter instalado:
 
-## 🗃 Histórico de lançamentos
-
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-
+- Python 3.8 ou superior
+- Jupyter Notebook ou JupyterLab
+- Git (para clonar o repositório)
 
 ## 📋 Licença
 
