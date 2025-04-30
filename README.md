@@ -8,13 +8,18 @@
 
 # fase 6
 
+<p align="center">
+<img src="assets/dot_a.png" alt=".a made by people for people" border="0" width=50% height=50% align="center">
+</p>
+<br>
 
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/ederson-badeca/">Ederson Luiz Badeca dos Santos</a> 
+
+## 👨‍🎓 Integrantes:
+- <a href="https://www.linkedin.com/in/ederson-badeca/">Ederson Luiz Badeca dos Santos</a>
 
 
 ## 👩‍🏫 Professores:
-### Tutor(a) 
+### Tutor(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Ruiz Orabona</a>
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi Chiovato</a>
@@ -27,13 +32,13 @@
 Treinamento de um modelo de Machine Learning para visão computacional, para identificação de objetos para o sistema
 intelinte de segurança patrimonial de fazendas.
 O modelo tenta identificar qual o tipo de veiculo que está passando pela câmera de segurança, se é um carro, ou bicicleta.
-Este modelo devera ser utilizado para identificar se o veiculo que está passando é um veiculo autorizado ou não, e 
+Este modelo devera ser utilizado para identificar se o veiculo que está passando é um veiculo autorizado ou não, e
 assim acionar o alarme de segurança.
 
 ## Notebook com o treinamento usando YOLO para detecção de veiculos
 - [notebook](src/Ederson_Badeca_rm560204_pbl_fase6.ipynb)
 
-## Notebook com a criação de uma rede neural convolucional para detecção de veiculos do zero para e yolo tradicional 
+## Notebook com a criação de uma rede neural convolucional para detecção de veiculos do zero para e yolo tradicional
 
 - [notebook](src/Ederson_Badeca_rm560204_pbl_fase6_CNN.ipynb)
 
