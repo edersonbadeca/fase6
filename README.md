@@ -24,6 +24,11 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi Chiovato</a>
 
+## YouTube
+
+[demo entrega 1](https://youtu.be/fbs-_neMzKI)
+
+[demo entrega 2](https://youtu.be/hCq-bdPlZP0)
 
 ## 📜 Descrição
 
